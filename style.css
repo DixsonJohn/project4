@@ -1,0 +1,222 @@
+.header{
+    
+    height: 60px;
+}
+ul{
+    list-style-type: none;
+    float: right;
+    padding-top: 2px;
+}
+li a{
+    text-decoration: none;
+    color: black;
+}
+li{
+    display: inline;
+    margin-right: 55px;
+}
+.banner{
+    
+    height: 400px;
+}
+.banner img{
+    width: 100%;
+    height: 400px;
+}
+.content{
+    
+    width: 90%;
+    margin: 0 auto;
+    height: 760px;
+}
+#title{
+    font-family: MV Boli;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 10px;
+}
+#box1{
+    
+    width: 25%;
+    height: 535px;
+    float: left;
+    margin-right: 8%;
+}
+#box2{
+    
+    width: 34%;
+    height: 535px;
+    float: left;
+}
+#box3{
+    
+    width: 23%;
+    height: 585px;
+    float: right;
+    margin-right: 2%;
+}
+
+#box1 img{
+    height: 200px;
+    width: 300px;
+}
+#pint{
+    font-family: MV Boli;
+    text-align: center;
+}
+#pc{
+    font-family: MV Boli;
+    text-align: center;
+    font-size: 20px;
+}
+#author{
+    text-align: center;
+    font-family: calibri light;
+    font-size: 20px;
+}
+.quote{
+    border: 1px solid black;
+}
+#box2 img{
+    width: 100%;
+    height: 485px;
+}
+#box2 p{
+    font-family: MV Boli;
+    text-align: center;
+}
+#img1{
+    width: 100%;
+    height: 300px;
+    padding-top: 13px;
+}
+#img2{
+    width: 98%;
+}
+#btn{
+    clear: both;
+    padding-top: 20px;
+}
+#btn p{
+    font-family: MV Boli;
+    text-align: center;
+    font-size: 25px;
+    padding-top: 10px;
+}
+#button{
+   
+    text-decoration: none;
+    color: red;
+    border: 1px solid red;
+    padding: 15px 30px 15px 30px;
+    border-radius: 50px;
+    margin-left: 458px;
+    
+    
+}
+.intro{
+    
+    height: 400px;
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    
+    
+}
+.intro img{
+    height: 400px;
+    width: 98%;
+    
+    
+}
+.final{
+    
+    width: 96%;
+    height: 1150px;
+    margin: 0 auto;
+}
+.left{
+    width: 70%;
+    
+    height: 700px;
+    float: left;
+    margin-right: 1%;
+}
+.right{
+    width: 28%;
+    
+    height: 1126px;
+    float: right;
+}
+#topic1{
+    font-family: MV Boli;
+    text-align: center;
+    font-size: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.fimg{
+    height: 200px;
+    width: 200px;
+    float: left;
+}
+.subtopic{
+    font-family: MV Boli;
+    text-align: center;
+    font-size: 15px;
+    padding-top: 15px;
+}
+.para{
+    text-align: center;
+    padding-top: 25px;
+}
+.right{
+    border: 1px solid black;
+    padding: 5px;
+}
+#finaltitle{
+    font-family: MV Boli;
+    text-align: center;
+    padding-top: 15px;
+}
+.right img{
+    padding-left: 55px;
+    padding-top: 20px;
+}
+#finalpara{
+    text-align: center;
+    padding-bottom: 20px;
+}
+#button2{
+    text-decoration: none;
+    color: red;
+    margin-left: 90px;
+    border: 1px solid red;
+    padding: 15px 20px 15px 20px;
+    border-radius: 20px;
+    
+}
+#icon1{
+    color: black;
+    font-size: 30px; 
+    margin-right: 60px; 
+}
+#icon2{
+    color: black;
+    font-size: 30px; 
+    margin-right: 60px;  
+}
+#icon3{
+    color: black;
+    font-size: 30px; 
+    margin-right: 60px;  
+}
+#icon4{
+    color: black;
+    font-size: 30px;  
+}
+.icons{
+    margin-left: 21px;
+}
+
+
